@@ -1,0 +1,198 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('../font/Vazirmatn-RD-VF.Ccz8GrIe.woff2') format('truetype');
+  }
+
+body {
+    direction: rtl;
+    font-family: 'MyFont';
+}
+
+.nav-link-active{
+    position: absolute;
+    right: 15px;
+}
+
+li {
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.nav-link-active-btn {
+    background-color: transparent;
+    border: 3px rgb(30, 141, 231) solid;
+    border-radius: 25px;
+    text-decoration: none;
+    position: absolute;
+    left: 10px;
+    padding: 15px;
+}
+
+.btn.btn.dropdown-toggle {
+    font-size: 20px;
+}
+
+.navbar-toggle.d-block.d-lg-none {
+    border-radius: 10px;
+    position: absolute;
+    border: none;
+    background-color: transparent;
+}
+
+.navbar {
+    margin-right: 375px;
+}
+
+a {
+    color: black;
+}
+
+.nav-link {
+    color: black;
+}
+
+.nav-link.active {
+    color: black;
+}
+
+.nav-link.btn.bg-primary {
+    border-radius: 15px;
+    color: white;
+    border: none;
+}
+
+.nav-link.btn {
+    border: 2px solid gray;
+    border-radius: 15px;
+} 
+
+.w-3.meno {
+    margin-top: -9px;
+}
+
+.col-md-6 {
+    margin-top: 200px;
+    margin-bottom: 20px;
+}
+
+.col-md-6.d-none.d-md-inline-block  {
+    margin-top: 20px;
+}
+
+.green-color {
+    color: #23b258;
+}
+
+.iphone-sit {
+    margin-right: 254px;
+    margin-top: 34px;
+}
+
+.nav.justify-content-center {
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+.paragraf-one {
+    color: gray;
+    font-size: 19px;
+}
+
+.btn-buy {
+    background-color: #0096ff;
+    color: white;
+    border-radius: 10px; 
+    transition: 0.5s;
+    padding-bottom: 9px;
+    padding-top: 9px;
+    padding-left: 31px;
+    padding-right: 31px;
+    cursor: pointer;
+}
+
+.btn-buy:hover {
+    background-color: #8ccfff;
+}
+
+.btn-live {
+    background-color: transparent;
+    border: gray 2px solid;
+    border-radius: 10px; 
+    transition: 0.5s;
+    padding-bottom: 9px;
+    padding-top: 9px;
+    padding-left: 31px;
+    padding-right: 31px;
+    cursor: pointer;
+}
+
+.btn-live:hover {
+    background-color: gray;
+    color: white;
+    transition: 0.5s;
+} 
+
+h2 {
+    text-align: center;
+}
+
+.kompany {
+    display: inline-block;
+    width: 109px;
+    margin-right: 159px;
+    margin-top: 20px;
+}
+
+.col-md-6.text {
+    margin-top: 400px;
+}
+
+.img-p2 {
+    height: 600px;
+}
+
+.title-p2 {
+    font-size: 49px;
+    text-align: start;
+}
+
+.title-small {
+    font-size: 19px;
+    color: gray;
+}
+
+.col-md-6.text.p {
+    font-size: 19px;
+}
+
+.btn.p2 {
+    background-color: #f0fdf4;
+    color: #00a63e;
+    transition: 0.5;
+    border-radius: 20px;
+    font-size: 25px;
+}
+
+.btn.p2:hover {
+    transition: 0.5;
+    background-color: #d5f5df;
+}
+.btn.p3 {
+    background-color: #eff6ff;
+    color: #0166fd;
+    transition: 0.5;
+    border-radius: 20px;
+    font-size: 25px;
+}
+
+.btn.p3:hover {
+    transition: 0.5;
+    background-color: #c5dcfb;
+}
+
+.col-md-6.new {
+    margin-bottom: 35px;
+}
